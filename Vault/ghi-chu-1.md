@@ -8,3 +8,5 @@
 - Hỗ trợ định dạng **in đậm**, *in nghiêng*, và danh sách.
 
 > "Học, học nữa, học mãi."
+
+Nguyễn Quốc Cường
