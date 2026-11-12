@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "nhóm NGTD thứ 5"
             }
+          },
+          {
+            "id": "5ea453a395a0c925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/baoqu/OneDrive/Desktop/nhóm NGTD thứ 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nhóm NGTD thứ 5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04bc1e9d2c28a977",
+  "active": "5ea453a395a0c925",
   "lastOpenFiles": [
     "Vault/y-tuong-1793230996443.md",
     "Vault/y-tuong-1793230359392.md",
